@@ -16,3 +16,6 @@ Resume Builder UI (Swift)
         <td><img src="Screenshots/screenshot_7.png"></td>
     </tr>
 </table>
+
+# Description
+![](Screenshots/demo.png)
