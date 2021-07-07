@@ -18,4 +18,4 @@ Resume Builder UI (Swift)
 </table>
 
 # Description
-![https://apps.apple.com/gr/app/resume-builder-professionals/id1569380836](Screenshots/demo.png)
+![](Screenshots/demo.png)
