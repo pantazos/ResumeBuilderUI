@@ -41,6 +41,7 @@ The Resume Builder - Professionals app has a low cost to use and download.
 There are no additional subscriptions or premium plans. Find a job, create your business, find and hire the new talented persons worldwide with a really low cost on 4.99 $ all over the world.
 
 Privacy Policy: https://opendevops.dev/
+
 Terms of Service: https://opendevops.dev/
 
 # Product Hunt
